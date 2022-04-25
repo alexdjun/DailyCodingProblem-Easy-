@@ -1,5 +1,5 @@
 # DailyCodingProblem-Easy
-Exercise 1 : Can you get string B by shifting string A?
+Exercise 1 : Shifted string.
 
 Exercise 2 : Fibanacci sequence.
 
