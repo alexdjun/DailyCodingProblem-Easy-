@@ -12,3 +12,5 @@ Exercise 5 : Find the greatest common denominator.
 Exercise 6 : Find the majority element. 
 
 Exercise 7 : Run-length encoder and decoder.
+
+Exercise 8 : Is permutation of a string a palindrome? 
