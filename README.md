@@ -14,3 +14,5 @@ Exercise 6 : Find the majority element.
 Exercise 7 : Run-length encoder and decoder.
 
 Exercise 8 : Is permutation of a string a palindrome? 
+
+Exercise 9 : Find the smallest postive integer that is not the sum of subset of the array.
