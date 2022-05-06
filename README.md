@@ -22,3 +22,5 @@ Exercise 10 : Spreadsheet alphabetical encoding.
 Exercise 11 : Merge two sorted arrays into one array in non-decreasing order.
 
 Exercise 12 : Add the digits until it is left with one digit.
+
+Exercise 13 : Wealthiest account.
