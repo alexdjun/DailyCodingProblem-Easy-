@@ -30,3 +30,5 @@ Exercise 14 : Find the missing number.
 Exercise 15 : Is the number power of four?
 
 Exercise 16 : Pascal's Triangle.
+
+Exercise 17 : First unique character.
