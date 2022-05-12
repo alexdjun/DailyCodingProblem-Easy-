@@ -14,6 +14,7 @@ vector<vector<int>> generate(int numRows) {
             // Also, initialize it's elements to 1. 
             res[i] = vector<int>(i+1,1);
             
+	    // The first and the last element is going to be always 1, so disregarding it. 
             // Filling in the middle elements as the sum of the two elements on top of it. 
             for (int j = 1; j < i; j++) {
                 res[i][j] = res[i-1][j-1] + res[i-1][j];
