@@ -28,3 +28,5 @@ Exercise 13 : Wealthiest account.
 Exercise 14 : Find the missing number.
 
 Exercise 15 : Is the number power of four?
+
+Exercise 16 : Pascal's Triangle.
