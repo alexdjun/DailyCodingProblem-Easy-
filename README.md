@@ -32,3 +32,5 @@ Exercise 15 : Is the number power of four?
 Exercise 16 : Pascal's Triangle.
 
 Exercise 17 : First unique character.
+
+Exercise 18 : Reverse vowels of a string.
