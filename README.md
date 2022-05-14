@@ -34,3 +34,5 @@ Exercise 16 : Pascal's Triangle.
 Exercise 17 : First unique character.
 
 Exercise 18 : Reverse vowels of a string.
+
+Exercise 19 : Teemo poison duration.
