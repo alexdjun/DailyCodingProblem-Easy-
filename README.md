@@ -38,3 +38,5 @@ Exercise 18 : Reverse vowels of a string.
 Exercise 19 : Teemo poison duration.
 
 Exercise 20 : Number to Hexadecimal.
+
+Exercise 21 : Arrange coins to a staircase. 
