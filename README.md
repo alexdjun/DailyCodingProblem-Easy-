@@ -42,3 +42,5 @@ Exercise 20 : Number to Hexadecimal.
 Exercise 21 : Arrange coins to a staircase. 
 
 Exercise 22 : Find the island's perimeter.
+
+Exercise 23 : Self dividing numbers.
