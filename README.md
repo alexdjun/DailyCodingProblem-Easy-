@@ -44,3 +44,5 @@ Exercise 21 : Arrange coins to a staircase.
 Exercise 22 : Find the island's perimeter.
 
 Exercise 23 : Self dividing numbers.
+
+Exercise 24 : Check if a word occurence as a prefix of any word in a sentence.
