@@ -48,3 +48,5 @@ Exercise 23 : Self dividing numbers.
 Exercise 24 : Check if a word occurence as a prefix of any word in a sentence.
 
 Exercise 25 : Mean of array after removing some elements.
+
+Exercise 26 : Transpose matrix.
