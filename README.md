@@ -52,3 +52,7 @@ Exercise 25 : Mean of array after removing some elements.
 Exercise 26 : Transpose matrix.
 
 Exercise 27 : Find the maximum product of three numbers.
+
+Exercise 28 : Remove Palindromic Subsequences.
+
+Exercise 29 : Check if array is sorted and rotated.
