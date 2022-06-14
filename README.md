@@ -60,3 +60,5 @@ Exercise 29 : Check if array is sorted and rotated.
 Exercise 30 : Element appearing more than 25% in sorted array.
 
 Exercise 31 : Number of students unable to eat lunch.
+
+Exercise 32 : Largest odd number in string.
