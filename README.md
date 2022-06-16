@@ -64,3 +64,5 @@ Exercise 31 : Number of students unable to eat lunch.
 Exercise 32 : Largest odd number in string.
 
 Exercise 33 : Can place flowers?
+
+Exercise 34 : Maximum number of words found in a sentence.
