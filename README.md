@@ -66,3 +66,5 @@ Exercise 32 : Largest odd number in string.
 Exercise 33 : Can place flowers?
 
 Exercise 34 : Maximum number of words found in a sentence.
+
+Exercise 35 : Minimum number of moves to seat everyone.
